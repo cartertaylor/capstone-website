@@ -6,9 +6,17 @@
 
 html body {
     background-color: rgb(255, 239, 219);
-
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .navbar-background{
     background-color:rgb(123, 154, 240);
 }
+
+@font-face {
+    font-family: "CustomFont";
+    src: url("CustomFont.eot");
+    src: url("../fonts/SourceSansPro-Black.otf") format("opentype"),
+    url("CustomFont.otf") format("opentype"),
+    url("CustomFont.svg#filename") format("svg");
+    }
