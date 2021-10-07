@@ -4,6 +4,14 @@
     max-height: 246px;
 }
 
+.mini-card-images
+{
+    max-height: 50px;
+    max-width: 50px;
+    border-radius: 50%;
+    font-size: 50px;
+}
+
 html body {
     background-color: rgb(255, 248, 240);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
